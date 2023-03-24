@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "Ignited Minds" ,
+        "bookImage": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/6700/9780670049288.jpg",
+        "bookDescription": "Ignited Minds: Unleashing the Power Within India is a book written by Dr. A. P. J. Abdul Kalam, President of India from 2002 to 2007.",
+        "bookAuthors" : "A P J Abdul kalam"
+    },
 ]
 
 # Schema For the Book Request JSON
