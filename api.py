@@ -32,6 +32,12 @@ books = [{
         "bookDescription": "Ignited Minds: Unleashing the Power Within India is a book written by Dr. A. P. J. Abdul Kalam, President of India from 2002 to 2007.",
         "bookAuthors" : "A P J Abdul kalam"
     },
+    {
+        "bookTitle": "Attupokatha ormakal" ,
+        "bookImage": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/6700/9780670049288.jpg",
+        "bookDescription": "Real story of Joseph mash",
+        "bookAuthors" : "Joseph Mash"
+    },
 ]
 
 # Schema For the Book Request JSON
